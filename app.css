@@ -1,0 +1,13 @@
+h1 {
+  font-size: 68px;
+  color: green;
+  margin-bottom: 36px;
+  margin-top: 36px;
+  font-family: circular;
+}
+p {
+  font-size: 30px;
+  margin-bottom: 16px;
+  margin-top: 16px;
+  font-family: circular;
+}
